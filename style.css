@@ -141,11 +141,10 @@ html {
     animation-timeline: view(40% 10%);
 }
 .samurai {
-    height: 600px;
-    width: 400px;
+    height: 100%;
+    width: 50%;
     position: absolute;
     right: 0;
-    top: 28%;
 }
 @keyframes back-card {
     0%{
